@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m Navneet Nitin, an Electronics and Communication student and aspiring Machine Learning Engineer.<br><br>🔭 Currently working on an Intelligent Medical Diagnosis Assistant, focusing on building end-to-end ML workflows from data preprocessing to model deployment.<br><br>🧠 I enjoy building complete machine learning projects and solving logical problems with a strong emphasis on clarity, efficiency, and real-world usability.<br><br>🌱 My core skills include Python and Java, with hands-on experience using NumPy, Pandas, Streamlit, and Joblib for data analysis, model building, and application development.<br><br>☁️ I have practical exposure to AWS EC2, including instance creation, EBS volume attachment, Elastic IP configuration, and basic cloud setup for deployments.<br><br>🚀 Projects I’ve worked on include a Student Marks Predictor using Linear Regression, a Diabetes Prediction system using Random Forest, and an ongoing Intelligent Medical Diagnosis Assistant.<br><br>🎯 My goal is to secure a Machine Learning internship or entry-level role within the next 6–12 months by building strong, industry-relevant projects.<br><br>🤝 Open to internships, collaborations, and learning opportunities.
 
+![](https://komarev.com/ghpvc/?username=navneet-nitin&style=plastic&color=blueviolet)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/863596362268672000) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/navneet_nitin01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-nitin/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navneetnitin8@gmail.com) 
@@ -13,13 +15,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=navneet-nitin&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=navneet-nitin&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=navneet-nitin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=navneet-nitin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!---->
